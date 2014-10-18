@@ -1,5 +1,5 @@
 testing
-loadDeputiesFromJsonFile
+testLoadDeputiesFromJsonFile
 
 	| fileRef jsonContents jsonDeputy |
 	fileRef := FileSystem disk workingDirectory / 'datasources' / 'deputy'.
