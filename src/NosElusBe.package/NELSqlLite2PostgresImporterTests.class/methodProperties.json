@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"loadDeputiesFromJsonFile" : "PhilippeBack 10/18/2014 11:15",
+		"setUp" : "PhilippeBack 10/17/2014 18:54",
+		"testImport" : "PhilippeBack 10/17/2014 18:24",
+		"testPostgresAccesToTables" : "PhilippeBack 10/17/2014 19:05",
+		"testPostgresConnectivity" : "PhilippeBack 10/17/2014 18:50",
+		"testQuestionsCount" : "PhilippeBack 10/17/2014 18:36",
+		"testQuestionsWithLimit" : "PhilippeBack 10/17/2014 18:22",
+		"testQuestionsWithLimitDo" : "PhilippeBack 10/17/2014 18:34",
+		"testQuestionsWithLimitDoPutIntoPostgres" : "PhilippeBack 10/17/2014 20:46",
+		"testQuestionsWithLimitShowRecordSample" : "PhilippeBack 10/17/2014 19:23" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "NosElusBe",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"importer" ],
+	"name" : "NELSqlLite2PostgresImporterTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }
