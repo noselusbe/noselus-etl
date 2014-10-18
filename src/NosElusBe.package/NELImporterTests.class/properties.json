@@ -7,7 +7,7 @@
 	"commentStamp" : "<historical>",
 	"instvars" : [
 		"importer" ],
-	"name" : "NELSqlLite2PostgresImporterTests",
+	"name" : "NELImporterTests",
 	"pools" : [
 		 ],
 	"super" : "TestCase",

@@ -4,11 +4,11 @@
 		 ],
 	"classvars" : [
 		"Default" ],
-	"commentStamp" : "PhilippeBack 10/18/2014 11:16",
+	"commentStamp" : "PhilippeBack 10/18/2014 12:01",
 	"instvars" : [
 		"db",
 		"pgDb" ],
-	"name" : "NELSqlLite2PostgresImporter",
+	"name" : "NELImporter",
 	"pools" : [
 		 ],
 	"super" : "Object",

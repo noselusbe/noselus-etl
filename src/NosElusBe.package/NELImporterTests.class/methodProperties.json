@@ -2,7 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
-		"setUp" : "PhilippeBack 10/17/2014 18:54",
+		"setUp" : "PhilippeBack 10/18/2014 12:00",
 		"testImport" : "PhilippeBack 10/17/2014 18:24",
 		"testLoadDeputiesFromJsonFile" : "PhilippeBack 10/18/2014 11:36",
 		"testPostgresAccesToTables" : "PhilippeBack 10/17/2014 19:05",
