@@ -1,2 +1,2 @@
-pharo NosElus.image ImportLaChambre.st
+./pharo NosElus.image ImportLaChambre.st --quit
 
