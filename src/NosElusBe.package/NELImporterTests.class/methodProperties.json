@@ -3,6 +3,7 @@
 		 },
 	"instance" : {
 		"setUp" : "PhilippeBack 10/18/2014 12:00",
+		"testEscapeQuotes" : "PhilippeBack 10/18/2014 18:59",
 		"testImport" : "PhilippeBack 10/17/2014 18:24",
 		"testLoadDeputiesFromJsonFile" : "PhilippeBack 10/18/2014 11:36",
 		"testPostgresAccesToTables" : "PhilippeBack 10/17/2014 19:05",
@@ -10,5 +11,7 @@
 		"testQuestionsCount" : "PhilippeBack 10/17/2014 18:36",
 		"testQuestionsWithLimit" : "PhilippeBack 10/17/2014 18:22",
 		"testQuestionsWithLimitDo" : "PhilippeBack 10/17/2014 18:34",
-		"testQuestionsWithLimitDoPutIntoPostgres" : "PhilippeBack 10/17/2014 20:46",
-		"testQuestionsWithLimitShowRecordSample" : "PhilippeBack 10/17/2014 19:23" } }
+		"testQuestionsWithLimitDoPutIntoPostgres" : "PhilippeBack 10/18/2014 19:10",
+		"testQuestionsWithLimitShowRecordSample" : "PhilippeBack 10/17/2014 19:23",
+		"testTagStripping" : "PhilippeBack 10/18/2014 18:41",
+		"testUTF8Conversion" : "PhilippeBack 10/18/2014 18:23" } }
