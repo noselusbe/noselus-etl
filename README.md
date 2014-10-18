@@ -13,6 +13,12 @@ TODO: script to load all of this to be provided.
 
 Then
 
+## Loading data
+
+    ./load-questions.sh
+
+## Running the importer
+
     pharo NosElus.image ImportLaChambre.st
 
 
