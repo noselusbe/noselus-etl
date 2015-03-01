@@ -7,7 +7,8 @@
 	"commentStamp" : "PhilippeBack 10/18/2014 12:01",
 	"instvars" : [
 		"db",
-		"pgDb" ],
+		"pgDb",
+		"debug" ],
 	"name" : "NELImporter",
 	"pools" : [
 		 ],

@@ -1,0 +1,4 @@
+actions
+closeSqlite
+
+	SQLiteConnection closeAllConnections

@@ -3,7 +3,7 @@ withoutHtmlTags
    "strip all tags, replace <br> and <p> with cr"
    | in out tag |
    in := self readStream.
-   out := WriteStream on: String new.
+   out := WriteStream on: (String new: 1024).
    [in atEnd] 
 		whileFalse: [
 			out nextPutAll: (in upTo: $<).

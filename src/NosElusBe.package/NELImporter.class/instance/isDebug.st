@@ -1,0 +1,4 @@
+testing
+isDebug
+
+	^ debug

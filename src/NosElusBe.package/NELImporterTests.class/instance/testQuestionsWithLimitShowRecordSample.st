@@ -6,7 +6,7 @@ testQuestionsWithLimitShowRecordSample
 	 limit := importer questionsCount.
 	 (importer questionsWithLimit: limit) do: [ :aRecord |
 		
-		aRecord explore.
+		"aRecord explore."
 		^self
 
 		 ]

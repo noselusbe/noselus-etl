@@ -4,14 +4,15 @@
 	"instance" : {
 		"setUp" : "PhilippeBack 10/18/2014 12:00",
 		"testEscapeQuotes" : "PhilippeBack 10/18/2014 18:59",
+		"testGenerateQuestionsInsertSqlFile" : "PhilippeBack 3/1/2015 16:50",
 		"testImport" : "PhilippeBack 10/17/2014 18:24",
 		"testLoadDeputiesFromJsonFile" : "PhilippeBack 10/18/2014 11:36",
 		"testPostgresAccesToTables" : "PhilippeBack 10/17/2014 19:05",
 		"testPostgresConnectivity" : "PhilippeBack 10/17/2014 18:50",
-		"testQuestionsCount" : "PhilippeBack 10/17/2014 18:36",
-		"testQuestionsWithLimit" : "PhilippeBack 10/17/2014 18:22",
+		"testQuestionsCount" : "PhilippeBack 3/1/2015 16:33",
+		"testQuestionsWithLimit" : "PhilippeBack 3/1/2015 16:36",
 		"testQuestionsWithLimitDo" : "PhilippeBack 10/17/2014 18:34",
 		"testQuestionsWithLimitDoPutIntoPostgres" : "PhilippeBack 10/18/2014 19:10",
-		"testQuestionsWithLimitShowRecordSample" : "PhilippeBack 10/17/2014 19:23",
+		"testQuestionsWithLimitShowRecordSample" : "PhilippeBack 3/1/2015 16:36",
 		"testTagStripping" : "PhilippeBack 10/18/2014 18:41",
 		"testUTF8Conversion" : "PhilippeBack 10/18/2014 18:23" } }

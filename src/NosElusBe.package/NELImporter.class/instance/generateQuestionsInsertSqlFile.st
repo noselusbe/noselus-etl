@@ -10,8 +10,8 @@ generateQuestionsInsertSqlFile
 		ifTrue: [ outputFile delete ].
 	outputFile asFileReference
 		writeStreamDo: [ :outputStream | 
-			limit := importer questionsCount.
-			"limit := 10."
+			limit := self isDebug ifTrue: [ 10 ] ifFalse: [ importer questionsCount ].
+
 			(importer questionsWithLimit: limit)
 				do: [ :aRecord | 
 					"aRecord
@@ -73,5 +73,8 @@ generateQuestionsInsertSqlFile
 							'0' "((aRecord departement_fr convertFromWithConverter: converter) withoutHtmlTags withEscapedQuotes)"}.
 					outputStream
 						<< importStatement;
-						lf	"importer dbConnection execute: importStatement." ] ] ]
-		ensure: [ importer clearDbConnection ]
+						lf.
+						"importer dbConnection execute: importStatement." ] ] ]
+		ensure: [ 
+			importer clearDbConnection.
+			importer closeSqlite  ]
